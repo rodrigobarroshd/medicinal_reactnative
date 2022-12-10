@@ -1,1 +1,1 @@
-# medicinal_reactnative
+# Medicional Project with React Native
